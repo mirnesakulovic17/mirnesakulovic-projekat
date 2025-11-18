@@ -14,7 +14,7 @@ h1 {
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.22);
 }
 
-/* Toolbar iznad ploče */
+
 toolbar {
 	background: rgba(255,255,255,0.9);
 	padding: 10px 20px;
@@ -42,7 +42,7 @@ button:hover {
 	background: #70472b;
 }
 
-/* Ploča sa pozadinom od plute */
+
 #board {
 	position: relative;
 	width: 90%;
@@ -56,7 +56,7 @@ button:hover {
 	margin-bottom: 10px;
 }
 
-/* Stil za zakačene slike */
+
 .pinned-img {
 	position: absolute;
 	cursor: move;
@@ -70,7 +70,7 @@ button:hover {
 	box-shadow: 0 4px 10px rgba(0,0,0,0.3);
 }
 
-/* Položaji pojedinačnih slika */
+
 .img1 { top: 40px; left: 40px; }
 .img2 { top: 60px; right: 60px; }
 .img3 { bottom: 80px; left: 120px; }
